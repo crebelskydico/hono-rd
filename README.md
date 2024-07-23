@@ -1,2 +1,8 @@
-# hono-rd
-honojs tray and break repo
+```
+npm install
+npm run dev
+```
+
+```
+open http://localhost:3000
+```
